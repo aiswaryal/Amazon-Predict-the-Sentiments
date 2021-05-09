@@ -26,7 +26,7 @@ Step 6 : Fitting data.
 
 Step 7 : Splitting data using train_test_split.
 
-Step 8 : Fitting training data into Linear Regression Model.
+Step 8 : Fitting training data into Logistic Regression Model.
 
 Step 9 : Checking Model Accuracy.
 
